@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br><br>🔭 I'm currently working on **Machine Learning, Data Science, and AI-powered IoT projects**<br><br>👯 I'm looking to collaborate on **Open Source, AI/ML, Data Science, and Computer Vision projects**<br><br>🤝 I'm looking for help with **MLOps, Cloud Deployment, and Large-Scale AI Systems**<br><br>🌱 I'm currently learning **Deep Learning, System Design, Advanced DSA, and MLOps**<br><br>💬 Ask me about **Python, Machine Learning, Data Science, ESP32, OpenCV, TensorFlow, and GitHub**<br><br>⚡ Fun fact: **I love turning real-world problems into AI-powered solutions and I'm always building something new.**
 
 
